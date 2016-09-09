@@ -1,0 +1,5 @@
+Viviana Contreras
+
+MIT License
+
+La licencia MIT también conocida como la licencia X11 o licencia MIT X es una licencia de software que fue desarrollado originalmente en el Instituto de Tecnología de Massachusetts. Es similar a la licencia BSD, que fue utilizado por primera vez para la distribución Berkeley Fuente, una versión de UNIX que fue desarrollado en la Universidad de California en Berkeley (UCB). La diferencia principal es que las licencias del estilo BSD veces contienen una cláusula que prohíbe el uso del nombre del titular de los derechos de autor en promociones sin permiso.
